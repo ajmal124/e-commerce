@@ -1,4 +1,4 @@
-<div class="hidden lg:flex justify-between mx-10 my-3">
+<div class="hidden lg:flex justify-between mx-10 my-3 font-semibold">
     <div class="flex justify-between">
         <a href="#" class="ml-3">Grocery</a>
         <a href="#" class="mx-3">Mobiles</a>

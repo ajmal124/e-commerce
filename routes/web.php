@@ -22,6 +22,10 @@ Route::get('/menshoe', function () {
     return view('menshoe');
 });
 
+Route::get('/mycart', function () {
+    return view('mycart');
+});
+
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');

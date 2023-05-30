@@ -1,6 +1,6 @@
 <div class=" lg:pb-20 pb-6 mt-3 lg:mt-0">
     @php
-        $details=array('img'=>"/images/rect60.png",'title'=>"Birde",'tag'=>"Stylish comfort and lightweighted");
+        $details=array('img'=>"images/rect60.png",'title'=>"Birde",'tag'=>"Stylish comfort and lightweighted");
         $details1=array('img'=>"images/rect61.png",'title'=>"Campus",'tag'=>"HARLEY Running Shoes For Men");
         $details2=array('img'=>"images/rect62.png",'title'=>"Nobelite",'tag'=>"SM-676 Running Shoes For Men");
         $details3=array('img'=>"images/rect63.png",'title'=>"Nobelite",'tag'=>"SM-676 Running Shoes For Men");
