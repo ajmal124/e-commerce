@@ -6,7 +6,5 @@
    <x-category-types></x-category-types>
    <x-mycartmain></x-mycartmain>
 
-
-
    <x-footer></x-footer>
 </x-defaultlayout>

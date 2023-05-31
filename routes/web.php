@@ -25,6 +25,9 @@ Route::get('/menshoe', function () {
 Route::get('/mycart', function () {
     return view('mycart');
 });
+Route::get('/paymentpage', function () {
+    return view('paymentpage');
+});
 
 Route::get('/dashboard', function () {
     return view('dashboard');
